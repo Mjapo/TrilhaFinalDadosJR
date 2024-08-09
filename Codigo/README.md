@@ -1,4 +1,4 @@
-![Código Certo Coders](![alt text](image.png))
+![Código Certo Coders](![alt text](../image.png))
 
 # 📚 Trilha Final Ciência de Dados Jr
 
